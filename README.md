@@ -27,8 +27,11 @@ Observación: La tienda con mayor facturación es la Tienda 1, mientras que la d
 Examiné las ventas por categoría para entender las preferencias de los clientes y el rendimiento de cada tienda:
 
 •	Tienda 1: Destaca en "Muebles" (465) y "Electrónicos" (448), pero tiene menos ventas en "Libros" (173) y "Artículos para el hogar" (171).
+
 •	Tienda 2: Fuerte en "Muebles" (442) y "Electrónicos" (422), con un buen desempeño en "Instrumentos musicales" (224).
+
 •	Tienda 3: Lidera en "Muebles" (499) y "Electrónicos" (451), pero flojea en "Instrumentos musicales" (177).
+
 •	Tienda 4: Sobresale en "Muebles" (480) y "Electrónicos" (451), pero tiene pocas ventas en "Instrumentos musicales" (170).
  
 Observación: Todas las tiendas son fuertes en "Muebles" y "Electrónicos".
